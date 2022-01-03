@@ -1,0 +1,53 @@
+Import LC
+General Characteristics
+Import LC is used for import of goods from other countries. It could either be a sight LC (payable immediately) or deferred LC (payable at a specific date in the future).
+
+Import LC is opened by the bank on behalf of its customer for the import of raw materials, capital machinery, consumer goods, food, chemicals, vehicles, etc. Margin is collected from the customer and kept in a separate account. On receipt of documents from the negotiating bank, payment is made by debiting the PAD account in the customer’s name for sight LCs or sending an acceptance, undertaking to pay at a later date (for usance LCs).
+Facilities offered
+	When documents for sight LCs are presented for payment, PAD A/c is debited initially
+	Post Import Finance is provided to the importer in the form of LIM, LTR, Hire Purchase and Lease finance
+Relation to Other Business Processes
+Credit
+	On submission of import documents, payment is made to the negotiating bank by debiting PAD A/c (payment against documents) in the name of the customer
+	Further post import finance is allowed to the customer in the form of LIM (Loan against Imported Merchandise), LTR (Loan against Trust Receipt), Lease Finance and Hire Purchase
+Guarantees
+	In the absence of original documents, shipping guarantee is issued for release of consignment from the port.
+Documentation Requirements
+	Trade License
+	IRC (Import Registration Certificate)
+	ERC(Export Registration Certificate)
+	VAT Registration certificate
+	TIN
+	Bonded Warehouse License
+	Member Certificate issued by BGMEA/BKMEA
+	Approval of Textile Office
+	Registration of Export Promotion Bureau
+	Fire License
+	Memorandum of Articles of Association and Certificate of Incorporation (Applicable for Limited Company)
+	Rental contract & letter of Disclaimer from Building owner for rented factory
+	Application for opening of L/C
+	Original Export L/C / Contract received from Buyer’s Bank / Buyer
+	L/C Advising Letter
+	LCAF including HS Code
+	IMP
+	Indemnity(In Prescribed Form)
+	Proforma Invoice/ Indent
+	Updated CIB report
+	One set of charge document including Personal Guarantee of every director/ partner
+	Cover note of import related products (Money receipt with photocopy of DD/ Pay-order)
+	Fire Policy of factory
+	Form XII in case of limited/ Partnership company
+	Declaration of income tax of previous year
+	Credit report of the Supplier
+	NOC from previous Bank(if applicable)
+	Collateral security documents (if applicable)
+	Other documents/papers directed by Bangladesh Bank/CCI&E/Related office of Bangladesh Govt.
+
+Business Event
+	Import LC Opening (Sight/ Deferred- Foreign/ Local)
+	Import LC Amendment
+	Lodgement of Import Documents
+	Retirement of Import Documents
+	Cancellation of LC
+	Handling of Discrepant Documents
+For any query please Contact at: Tel: (PAfBX) 95513614 FAX: 88023-2-95640209 or e-mail us at gssdd@bankbd.com

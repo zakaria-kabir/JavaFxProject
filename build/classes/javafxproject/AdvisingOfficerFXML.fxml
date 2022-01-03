@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane id="AnchorPane" prefHeight="615.0" prefWidth="905.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxproject.AdvisingOfficerFXMLController">
+   <children>
+      <HBox layoutX="25.0" layoutY="23.0" prefHeight="23.0" prefWidth="854.0">
+         <children>
+            <Button fx:id="ViewLCBtn" mnemonicParsing="false" onAction="#ViewLCBtnOnClick" prefHeight="26.0" prefWidth="140.0" text="View LC" />
+         </children>
+      </HBox>
+      <TableView fx:id="tableView" layoutX="25.0" layoutY="62.0" prefHeight="477.0" prefWidth="854.0">
+        <columns>
+          <TableColumn fx:id="name" prefWidth="124.80002212524414" text="Name" />
+          <TableColumn fx:id="Lc" prefWidth="636.7999420166016" text="LC" />
+            <TableColumn fx:id="select" prefWidth="92.00006103515625" text="Select" />
+        </columns>
+      </TableView>
+      <Button fx:id="view" layoutX="828.0" layoutY="562.0" mnemonicParsing="false" onAction="#viewBtnOnClick" text="View" />
+   </children>
+</AnchorPane>

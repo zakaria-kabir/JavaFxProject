@@ -1,0 +1,52 @@
+Export LC
+General Characteristics
+Export LC is extensively used in Foreign Trade to facilitate the smooth conduct of the export business. Banks play the role of intermediaries to get the transaction through, even though the buyer and the seller may not know about each other’s background.
+
+Export LCs clear the uncertainty between the buyer and the seller with the bank undertaking to settle the obligations in time. Export LC in favor of the customer is received by the bank, which advises the LC to the customer. When the customer ships the goods as per LC terms and submits the relevant documents to the bank, the bills are either purchased or sent for collection to the LC issuing bank.
+
+The amounts drawn against Export LCs are endorsed on the back of the original LC.
+Facilities offered
+	Pre Shipment credit in the form of Packing Credit
+	FBP-Foreign Bills Purchase
+	FBP-local
+Relation to Other Business Processes
+Credit
+	At the request of the customer, pre shipment credit is extended to him in the form of Packing Credit for production and packing expenses.
+	On submission of export documents, the customer’s bills are purchased by the bank under FBP (Foreign Documentary Bills Purchased)
+	Local export bills are purchased under FBP-local (Inland Documentary Bills Purchased)
+Treasury
+	Exchange rate & NOSTRO account reconciliation
+Interest
+	Interest is charged on Packing Credit, FBP and FBP local.
+Documentation Requirements
+	Trade License
+	IRC (Import Registration Certificate)
+	ERC(Export Registration Certificate)
+	VAT Registration certificate
+	TIN
+	Bonded Warehouse License
+	Member Certificate issued by BGMEA/BKMEA
+	Approval of Textile Office
+	Registration of Export Promotion Bureau
+	Fire License
+	Memorandum of Articles of Association and Certificate of Incorporation (Applicable for Limited Company)
+	Rental contract & letter of Disclaimer from Building owner for rented factory
+	Application for opening of L/C
+	Original Export L/C / Contract received from Buyer’s Bank / Buyer
+	L/C Advising Letter
+	LCAF including HS Code
+	IMP
+	Indemnity(In Prescribed Form)
+	Proforma Invoice/ Indent
+	Updated CIB report
+	One set of charge document including Personal Guarantee of every director/ partner
+	Cover note of import related products (Money receipt with photocopy of DD/ Pay-order)
+	Fire Policy of factory
+	Form XII in case of limited/ Partnership company
+	Declaration of income tax of previous year
+	Credit report of the Supplier
+	NOC from previous Bank(if applicable)
+	Collateral security documents (if applicable)
+	Other documents/papers directed by Bangladesh Bank/CCI&E/Related office of Bangladesh Govt.
+
+For any query please Contact at: Tel: (PA) 9551612434 FAX: 880-2-956404509 or e-mail us at gsdrd@bankbd.com

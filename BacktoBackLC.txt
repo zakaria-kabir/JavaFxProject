@@ -1,0 +1,27 @@
+Back to Back LC
+General Characteristics
+Back to Back LCs is issued on behalf of a customer against the security of Export LCs for procurement of raw materials either locally or from abroad and makes timely shipments. The customer is entitled to open BTB LC 75% to 100% of the FOB value of the Export LC. More than one BTB import LC can be issued against one or more export LCs.
+
+The Government of Bangladesh has advised a special procedure under which the export oriented garment units are allowed to import their raw materials free of duty under the bonded warehouse arrangement. Back-to-Back letter of credit, in essence, is used to import the inputs generally on credit terms up to 180 days on the strength of the foreign LC received from the overseas buyers.
+Facilities offered
+	EDF loan facility to the importer to meet import obligations at maturity
+	Pre-shipment finance in the form of Packing Credit for production and packing
+	FBP -Foreign bills purchase
+	FBP local – Inland / local bills purchase
+	In order to meet BTB import obligations, required portion of the export proceeds is to be kept in FC held for BTB payment A/c
+	Demand Loan will be created in case of export failure or if shortage of fund in FBPAR a/c or export precedes realization being delayed.
+Relation to Other Business Processes
+Credit
+	On receipt of documents for BTB import sight LC, payment is made by debiting EDF loan A/c
+	In case of failure of export or insufficient export proceeds, Force Demand loan is to be created for settlement of import obligations at maturity
+	Pre shipment finance in the form of Packing Credit is given to the customer for production and packing
+	On receipt of export documents, they may be purchased (in the form of FBP) up to a certain percentage of the document value if there are no discrepancies
+	On receipt of export (local) documents, they may be purchased (in the form of FBP-local) up to a certain percentage of the document value if there are no discrepancies.
+Business Event
+	Recording Export LC / Contract
+	Opening of BTB LC
+	Amendment of BTB LC
+	Lodgement of BTB import bills
+	Settlement of import obligation at maturity.
+	Cancellation of BTB LC
+For any query please Contact at: Tel: (PABX) 9551614 FAX: 880-2-9564009 or e-mail us at gsdd@pubalibankbd.com

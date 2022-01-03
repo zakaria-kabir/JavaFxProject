@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane fx:id="borderid" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="615.0" prefWidth="905.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxproject.GuestHomeController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Trade Finance">
+            <items>
+              <MenuItem fx:id="importLCmenuitm" mnemonicParsing="false" onAction="#importLCmenuitmOnClick" text="Import LC" />
+                  <MenuItem fx:id="exportLcmenuItm" mnemonicParsing="false" onAction="#exportLcmenuItmOnClick" text="Export LC" />
+                  <MenuItem fx:id="BtBmenuitm" mnemonicParsing="false" onAction="#BtBmenuitmOnClick" text="Bank to Bank LC" />
+                  <MenuItem fx:id="docAgPaymenuItm" mnemonicParsing="false" onAction="#docAgPaymenuItmOnClick" text="Documents Against Payment" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="About Us">
+            <items>
+              <MenuItem fx:id="aboutMenuItm" mnemonicParsing="false" onAction="#aboutMenuItmONClick" text="About" />
+                  <MenuItem fx:id="BODMenuItm" mnemonicParsing="false" onAction="#BODMenuItmOnLcik" text="Board of Directories" />
+                  <MenuItem fx:id="CoCMenuItm" mnemonicParsing="false" onAction="#CoCMenuItmOnClick" text="Code of Conduct" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false" text="Contact Us">
+              <items>
+                <MenuItem fx:id="contactMenuitm" mnemonicParsing="false" onAction="#contctusOnClick" text="Details" />
+              </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <left>
+      <VBox prefHeight="302.0" prefWidth="146.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="servicecrgBtn" mnemonicParsing="false" onAction="#servicecrgBtnOnClick" prefHeight="46.0" prefWidth="162.0" text="Service Charges" />
+            <Button fx:id="ForeignCurrencyRatesBtn" mnemonicParsing="false" onAction="#ForeignCurrencyRatesBtnOnclick" prefHeight="46.0" prefWidth="168.0" text="Foreign Currency Rates" />
+            <Button fx:id="feedbackBtn" mnemonicParsing="false" onAction="#feedbackBtnOnclick" prefHeight="46.0" prefWidth="168.0" text="Give FeedBack" />
+            <Button fx:id="logOutBtn" mnemonicParsing="false" onAction="#logOutBtnOnclick" prefHeight="46.0" prefWidth="168.0" text="Back To Log In" />
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <Pane fx:id="Pane" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <ScrollPane fx:id="showtxt" prefHeight="588.0" prefWidth="759.0" visible="false">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0" />
+              </content>
+            </ScrollPane>
+            <ImageView fx:id="imgView" fitHeight="585.0" fitWidth="753.0" pickOnBounds="true" preserveRatio="true" visible="false" />
+            <TableView fx:id="tableView" layoutX="117.0" layoutY="62.0" prefHeight="361.0" prefWidth="466.0" visible="false">
+              <columns>
+                <TableColumn fx:id="currCol" prefWidth="149.59992218017578" text="Currency" />
+                <TableColumn fx:id="buyCol" prefWidth="168.0" text="Buying(tk)" />
+                  <TableColumn fx:id="sellCol" prefWidth="149.59994506835938" text="Selling(tk)" />
+              </columns>
+            </TableView>
+         </children></Pane>
+   </center>
+</BorderPane>
